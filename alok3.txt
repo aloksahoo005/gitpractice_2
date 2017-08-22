@@ -1,0 +1,6 @@
+Branches 4 types 
+Development branch
+RElease branch
+Hot fix
+Feature branch
+
