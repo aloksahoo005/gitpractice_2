@@ -1,3 +1,6 @@
 hotfix branch change
 hotfix branch was modified in git commang line on 1st Sep
+Understandind git diff command
+
+
 
